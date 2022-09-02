@@ -1,0 +1,2 @@
+# OyunSatisMagazasi
+Bootstrap kullanılarak yazılmıştır
